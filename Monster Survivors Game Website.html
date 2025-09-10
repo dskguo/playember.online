@@ -1,0 +1,458 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Monster Survivors - Play Free Online Action Game | PlayEmber</title>
+  <meta name="description" content="Play Monster Survivors online for free! An exciting action-packed survival game where you battle endless waves of monsters. No download required - play instantly in your browser.">
+  <meta name="keywords" content="Monster Survivors, online game, free game, action game, survival game, browser game, play online">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://playember.online">
+  
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="Monster Survivors - Play Free Online Action Game">
+  <meta property="og:description" content="Battle endless waves of monsters in this thrilling survival game. Play Monster Survivors free online!">
+  <meta property="og:url" content="https://playember.online">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="PlayEmber">
+  
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Monster Survivors - Play Free Online Action Game">
+  <meta name="twitter:description" content="Battle endless waves of monsters in this thrilling survival game. Play Monster Survivors free online!">
+  
+  <!-- Structured Data -->
+  <script type="application/ld+json">
+  {
+      "@context": "https://schema.org",
+      "@type": "VideoGame",
+      "name": "Monster Survivors",
+      "description": "An exciting action-packed survival game where you battle endless waves of monsters",
+      "url": "https://playember.online",
+      "genre": ["Action", "Survival"],
+      "playMode": "SinglePlayer",
+      "applicationCategory": "Game",
+      "operatingSystem": "Web Browser",
+      "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+      }
+  }
+  </script>
+  
+  <style>
+      * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+      }
+      
+      body {
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+          line-height: 1.6;
+          color: #1d1d1f;
+          background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+          min-height: 100vh;
+      }
+      
+      .container {
+          max-width: 1200px;
+          margin: 0 auto;
+          padding: 0 20px;
+      }
+      
+      header {
+          background: rgba(255, 255, 255, 0.95);
+          backdrop-filter: blur(20px);
+          -webkit-backdrop-filter: blur(20px);
+          border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+          position: sticky;
+          top: 0;
+          z-index: 100;
+      }
+      
+      .header-content {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          padding: 1rem 0;
+      }
+      
+      .logo {
+          font-size: 1.5rem;
+          font-weight: 700;
+          color: #007aff;
+          text-decoration: none;
+      }
+      
+      .nav-links {
+          display: flex;
+          gap: 2rem;
+          list-style: none;
+      }
+      
+      .nav-links a {
+          color: #1d1d1f;
+          text-decoration: none;
+          font-weight: 500;
+          transition: color 0.3s ease;
+      }
+      
+      .nav-links a:hover {
+          color: #007aff;
+      }
+      
+      main {
+          padding: 2rem 0;
+      }
+      
+      .hero {
+          text-align: center;
+          margin-bottom: 3rem;
+          background: rgba(255, 255, 255, 0.95);
+          backdrop-filter: blur(20px);
+          -webkit-backdrop-filter: blur(20px);
+          border-radius: 20px;
+          padding: 3rem 2rem;
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+      }
+      
+      h1 {
+          font-size: clamp(2.5rem, 5vw, 4rem);
+          font-weight: 800;
+          background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+          background-clip: text;
+          margin-bottom: 1rem;
+          line-height: 1.2;
+      }
+      
+      .tagline {
+          font-size: 1.25rem;
+          color: #86868b;
+          margin-bottom: 2rem;
+          max-width: 600px;
+          margin-left: auto;
+          margin-right: auto;
+      }
+      
+      .game-container {
+          background: rgba(255, 255, 255, 0.95);
+          backdrop-filter: blur(20px);
+          -webkit-backdrop-filter: blur(20px);
+          border-radius: 20px;
+          padding: 2rem;
+          margin-bottom: 3rem;
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+      }
+      
+      .game-frame {
+          width: 100%;
+          height: 600px;
+          border: none;
+          border-radius: 15px;
+          box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+      }
+      
+      .content-section {
+          background: rgba(255, 255, 255, 0.95);
+          backdrop-filter: blur(20px);
+          -webkit-backdrop-filter: blur(20px);
+          border-radius: 20px;
+          padding: 2.5rem;
+          margin-bottom: 2rem;
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+      }
+      
+      h2 {
+          font-size: 2rem;
+          font-weight: 700;
+          color: #1d1d1f;
+          margin-bottom: 1.5rem;
+          position: relative;
+      }
+      
+      h2::after {
+          content: '';
+          position: absolute;
+          bottom: -0.5rem;
+          left: 0;
+          width: 50px;
+          height: 3px;
+          background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+          border-radius: 2px;
+      }
+      
+      p {
+          font-size: 1.1rem;
+          color: #515154;
+          margin-bottom: 1.5rem;
+          line-height: 1.7;
+      }
+      
+      .features-grid {
+          display: grid;
+          grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+          gap: 2rem;
+          margin-top: 2rem;
+      }
+      
+      .feature-card {
+          background: rgba(247, 247, 247, 0.8);
+          padding: 2rem;
+          border-radius: 15px;
+          text-align: center;
+          transition: transform 0.3s ease, box-shadow 0.3s ease;
+      }
+      
+      .feature-card:hover {
+          transform: translateY(-5px);
+          box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+      }
+      
+      .feature-icon {
+          font-size: 3rem;
+          margin-bottom: 1rem;
+      }
+      
+      .feature-title {
+          font-size: 1.3rem;
+          font-weight: 600;
+          color: #1d1d1f;
+          margin-bottom: 1rem;
+      }
+      
+      .feature-description {
+          font-size: 1rem;
+          color: #86868b;
+          margin-bottom: 0;
+      }
+      
+      .play-button {
+          display: inline-block;
+          background: linear-gradient(135deg, #007aff 0%, #5856d6 100%);
+          color: white;
+          padding: 1rem 2rem;
+          border-radius: 25px;
+          text-decoration: none;
+          font-weight: 600;
+          font-size: 1.1rem;
+          transition: all 0.3s ease;
+          box-shadow: 0 5px 15px rgba(0, 122, 255, 0.3);
+      }
+      
+      .play-button:hover {
+          transform: translateY(-2px);
+          box-shadow: 0 10px 25px rgba(0, 122, 255, 0.4);
+      }
+      
+      footer {
+          background: rgba(0, 0, 0, 0.9);
+          color: white;
+          text-align: center;
+          padding: 2rem 0;
+          margin-top: 3rem;
+      }
+      
+      .footer-content {
+          max-width: 800px;
+          margin: 0 auto;
+      }
+      
+      .footer-links {
+          display: flex;
+          justify-content: center;
+          gap: 2rem;
+          margin-bottom: 1rem;
+          flex-wrap: wrap;
+      }
+      
+      .footer-links a {
+          color: #86868b;
+          text-decoration: none;
+          transition: color 0.3s ease;
+      }
+      
+      .footer-links a:hover {
+          color: white;
+      }
+      
+      @media (max-width: 768px) {
+          .container {
+              padding: 0 15px;
+          }
+          
+          .header-content {
+              flex-direction: column;
+              gap: 1rem;
+          }
+          
+          .nav-links {
+              gap: 1rem;
+          }
+          
+          .hero {
+              padding: 2rem 1rem;
+          }
+          
+          .game-container {
+              padding: 1rem;
+          }
+          
+          .game-frame {
+              height: 400px;
+          }
+          
+          .content-section {
+              padding: 1.5rem;
+          }
+          
+          .features-grid {
+              grid-template-columns: 1fr;
+              gap: 1rem;
+          }
+          
+          .feature-card {
+              padding: 1.5rem;
+          }
+          
+          .footer-links {
+              flex-direction: column;
+              gap: 1rem;
+          }
+      }
+      
+      @media (max-width: 480px) {
+          .game-frame {
+              height: 300px;
+          }
+          
+          h1 {
+              font-size: 2rem;
+          }
+          
+          .tagline {
+              font-size: 1rem;
+          }
+      }
+  </style>
+</head>
+<body>
+  <header>
+      <div class="container">
+          <div class="header-content">
+              <a href="/" class="logo">PlayEmber</a>
+              <nav>
+                  <ul class="nav-links">
+                      <li><a href="#game">Play Now</a></li>
+                      <li><a href="#about">About</a></li>
+                      <li><a href="#features">Features</a></li>
+                      <li><a href="#how-to-play">How to Play</a></li>
+                  </ul>
+              </nav>
+          </div>
+      </div>
+  </header>
+
+  <main>
+      <div class="container">
+          <section class="hero">
+              <h1>Monster Survivors</h1>
+              <p class="tagline">Battle endless waves of monsters in this thrilling survival adventure - play instantly in your browser!</p>
+              <a href="#game" class="play-button">🎮 Play Now</a>
+          </section>
+
+          <section id="game" class="game-container">
+              <iframe 
+                  src="https://cloud.onlinegames.io/games/2025/unity/monster-survivors/index-og.html" 
+                  class="game-frame"
+                  title="Monster Survivors Game"
+                  allowfullscreen
+                  loading="lazy">
+              </iframe>
+          </section>
+
+          <section id="about" class="content-section">
+              <h2>🎯 About Monster Survivors</h2>
+              <p>Monster Survivors is an adrenaline-pumping action survival game that challenges players to withstand endless waves of terrifying creatures. Set in a dark, mysterious world overrun by monsters, you must use your wits, reflexes, and strategic thinking to survive as long as possible.</p>
+              
+              <p>This browser-based game combines classic survival mechanics with modern gameplay elements, offering an engaging experience that keeps you on the edge of your seat. With no downloads required, you can jump straight into the action and start battling monsters immediately.</p>
+              
+              <p>Whether you're a casual gamer looking for quick entertainment or a hardcore player seeking a challenging survival experience, Monster Survivors delivers intense gameplay that will test your limits and keep you coming back for more.</p>
+          </section>
+
+          <section id="features" class="content-section">
+              <h2>🌟 Game Features</h2>
+              <div class="features-grid">
+                  <div class="feature-card">
+                      <div class="feature-icon">⚔️</div>
+                      <h3 class="feature-title">Intense Combat</h3>
+                      <p class="feature-description">Face off against hordes of monsters with various weapons and abilities at your disposal.</p>
+                  </div>
+                  <div class="feature-card">
+                      <div class="feature-icon">🎮</div>
+                      <h3 class="feature-title">Easy Controls</h3>
+                      <p class="feature-description">Simple, intuitive controls that are easy to learn but challenging to master.</p>
+                  </div>
+                  <div class="feature-card">
+                      <div class="feature-icon">🌙</div>
+                      <h3 class="feature-title">Atmospheric Design</h3>
+                      <p class="feature-description">Immersive dark fantasy setting with stunning visuals and haunting sound effects.</p>
+                  </div>
+                  <div class="feature-card">
+                      <div class="feature-icon">📱</div>
+                      <h3 class="feature-title">Cross-Platform</h3>
+                      <p class="feature-description">Play seamlessly on desktop, tablet, or mobile - no downloads required!</p>
+                  </div>
+                  <div class="feature-card">
+                      <div class="feature-icon">🏆</div>
+                      <h3 class="feature-title">Progressive Difficulty</h3>
+                      <p class="feature-description">Each wave brings stronger enemies and greater challenges to overcome.</p>
+                  </div>
+                  <div class="feature-card">
+                      <div class="feature-icon">⚡</div>
+                      <h3 class="feature-title">Fast-Paced Action</h3>
+                      <p class="feature-description">Non-stop action that keeps your heart racing from start to finish.</p>
+                  </div>
+              </div>
+          </section>
+
+          <section id="how-to-play" class="content-section">
+              <h2>🎯 How to Play Monster Survivors</h2>
+              <p><strong>Getting Started:</strong> Simply click the play button above to launch the game instantly in your browser. No registration or downloads needed - just pure gaming action!</p>
+              
+              <p><strong>Basic Controls:</strong> Use your mouse or touch controls to navigate your character around the battlefield. Click or tap to attack approaching monsters and use special abilities when available.</p>
+              
+              <p><strong>Survival Strategy:</strong> Your goal is to survive as long as possible against increasingly difficult waves of monsters. Collect power-ups, upgrade your weapons, and use the environment to your advantage.</p>
+              
+              <p><strong>Tips for Success:</strong> Stay mobile to avoid being overwhelmed, prioritize dangerous enemies, and make strategic use of your special abilities. The key to high scores is balancing aggression with careful positioning.</p>
+          </section>
+
+          <section class="content-section">
+              <h2>🚀 Why Play Monster Survivors Online?</h2>
+              <p>Monster Survivors offers the perfect blend of accessibility and excitement. As a browser-based game, it eliminates the hassle of downloads and installations while delivering console-quality gameplay. The game is optimized for all devices, ensuring smooth performance whether you're playing on a powerful gaming PC or a mobile phone during your commute.</p>
+              
+              <p>The game's progressive difficulty system ensures that both newcomers and experienced players will find appropriate challenges. Start with manageable enemy waves and gradually face more formidable foes as your skills improve. This scalable difficulty makes Monster Survivors perfect for quick gaming sessions or extended play periods.</p>
+              
+              <p>Join thousands of players worldwide who have already discovered the thrill of Monster Survivors. With regular updates and community feedback driving continuous improvements, there's always something new to discover in this evolving survival adventure.</p>
+          </section>
+      </div>
+  </main>
+
+  <footer>
+      <div class="container">
+          <div class="footer-content">
+              <div class="footer-links">
+                  <a href="/privacy">Privacy Policy</a>
+                  <a href="/terms">Terms of Service</a>
+                  <a href="/contact">Contact Us</a>
+                  <a href="/about">About PlayEmber</a>
+              </div>
+              <p>&copy; 2025 PlayEmber.online - All rights reserved. Play Monster Survivors and more free online games!</p>
+          </div>
+      </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,302 @@
+﻿[
+    {
+        "title":  "Body Drop 3D",
+        "url":  "https://play.gamepix.com/body-drop-3d/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/body-drop-3d/icon/body-drop-3d.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/body-drop-3d/cover/body-drop-3d.png?w=320",
+        "category":  "action",
+        "orientation":  "landscape",
+        "description":  "Experience hilarious ragdoll physics as a resilient crash test dummy in Body Drop 3D. Strategically aim and unleash powerful impacts with limited balls to maximize bone-crunching damage. Explore creative angles, unlock new scenarios, and enjoy the endless cycle of chaos and laughter. Can you outwit gravity?",
+        "namespace":  "body-drop-3d"
+    },
+    {
+        "title":  "Funny Shooter 2",
+        "url":  "https://play.gamepix.com/funny-shooter-2/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/funny-shooter-2/icon/funny-shooter-2.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/funny-shooter-2/cover/funny-shooter-2.png?w=320",
+        "category":  "shooter",
+        "orientation":  "landscape",
+        "description":  "Dive into the zany chaos of Funny Shooter 2, where every battle is a laugh-filled thrill ride. Face off against quirky enemies, upgrade your arsenal with endless customization options, and explore a whimsical world bursting with personality. This action-packed adventure is a hilariously unique gaming experience.",
+        "namespace":  "funny-shooter-2"
+    },
+    {
+        "title":  "Parmesan Partisan",
+        "url":  "https://play.gamepix.com/parmesan-partisan/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/parmesan-partisan/icon/parmesan-partisan.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/parmesan-partisan/cover/parmesan-partisan.png?w=320",
+        "category":  "arcade",
+        "orientation":  "landscape",
+        "description":  "Step into the shoes of a cheese guardian in Parmesan Partisan, where you must fend off relentless rat invasions with blazing shotgun action. Balance strategy and speed to protect your cheesy realm, wield powerful upgrades, and prove yourself the ultimate hero in this thrilling defense adventure.",
+        "namespace":  "parmesan-partisan"
+    },
+    {
+        "title":  "Three Cups Game",
+        "url":  "https://play.gamepix.com/three-cups-game/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/three-cups-game/icon/three-cups-game.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/three-cups-game/cover/three-cups-game.png?w=320",
+        "category":  "memory",
+        "orientation":  "all",
+        "description":  "Challenge your focus and memory with the Three Cups Game, where precision and strategy meet. Track the elusive cup hiding surprises as the pace intensifies with each level. Unveil secrets and celebrate each win in this deceptively simple, yet profoundly addictive mental adventure. How sharp is your attention?",
+        "namespace":  "three-cups-game"
+    },
+    {
+        "title":  "Hoops \u0026 Fruits",
+        "url":  "https://play.gamepix.com/hoops-and-fruits/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/hoops-and-fruits/icon/hoops-and-fruits.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/hoops-and-fruits/cover/hoops-and-fruits.png?w=320",
+        "category":  "drawing",
+        "orientation":  "portrait",
+        "description":  "Dive into the whimsical world of Hoops \u0026 Fruits, where your hoop-tossing skills meet colorful, fruity targets. Engage in addictive drag-and-drop gameplay with charming graphics and a captivating soundtrack, challenging you to master levels and score big by hooping multiple fruits at once.",
+        "namespace":  "hoops-and-fruits"
+    },
+    {
+        "title":  "TenTrix",
+        "url":  "https://play.gamepix.com/tentrix/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/tentrix/icon/tentrix.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/tentrix/cover/tentrix.png?w=320",
+        "category":  "block",
+        "orientation":  "portrait",
+        "description":  "Unleash your strategic prowess in TenTrix, a compelling blend of simplicity and creativity. Effortlessly arrange falling blocks on a 10x10 grid to clear lines and score points. With unrotatable shapes and endless possibilities, it\"\"s a fresh twist on classic Tetris, offering endless fun on both PC and mobile.",
+        "namespace":  "tentrix"
+    },
+    {
+        "title":  "Turbo Dismounting",
+        "url":  "https://play.gamepix.com/turbo-dismounting/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/turbo-dismounting/icon/turbo-dismounting.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/turbo-dismounting/cover/turbo-dismounting.png?w=320",
+        "category":  "stickman",
+        "orientation":  "landscape",
+        "description":  "Turbo Dismounting is a thrilling physics-based adventure where players create epic crashes. Propel your stickman through chaotic obstacles, earning rewards to unlock diverse vehicles and challenging levels. Revel in the havoc with unique replays, testing your skills in explosive, adrenaline-fueled gameplay.",
+        "namespace":  "turbo-dismounting"
+    },
+    {
+        "title":  "Gelatino",
+        "url":  "https://play.gamepix.com/gelatino/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/gelatino/icon/gelatino.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/gelatino/cover/gelatino.png?w=320",
+        "category":  "arcade",
+        "orientation":  "portrait",
+        "description":  "Guide a courageous popsicle on a cooling adventure in Gelatino! Swing past traps, snag ice cubes, and dodge bushels of blazing heat to extend your minty fresh expedition. Precise movement and on-the-fly strategy keep the popsicle intact as you zigzag through sun-soaked lands. Will you melt or prevail?",
+        "namespace":  "gelatino"
+    },
+    {
+        "title":  "Merge Mine - Idle Clicker",
+        "url":  "https://play.gamepix.com/merge-mine-idle-clicker/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/merge-mine-idle-clicker/icon/merge-mine-idle-clicker.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/merge-mine-idle-clicker/cover/merge-mine-idle-clicker.png?w=320",
+        "category":  "adventure",
+        "orientation":  "portrait",
+        "description":  "Unleash your inner miner in Merge Mine - Idle Clicker. Tap into a diamond-rich vein, strategically upgrade tools, and merge them for enhanced mining power. Experience the thrill of turning hard work into shiny rewards, as you automate your mining empire and watch diamonds accumulate, even while you\"\"re away.",
+        "namespace":  "merge-mine-idle-clicker"
+    },
+    {
+        "title":  "Cerkio",
+        "url":  "https://play.gamepix.com/cerkio/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/cerkio/icon/cerkio.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/cerkio/cover/cerkio.png?w=320",
+        "category":  "ball",
+        "orientation":  "portrait",
+        "description":  "Cerkio invites you into a minimalist world where precision meets relaxation. Test your timing as you launch a ball into a target across 30 increasingly complex levels. With soothing music and intuitive one-touch controls, experience a challenging yet calming escape. Perfect your skills and master one-hand gameplay.",
+        "namespace":  "cerkio"
+    },
+    {
+        "title":  "Penalty Kick Wiz",
+        "url":  "https://play.gamepix.com/penalty-kick-wiz/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/penalty-kick-wiz/icon/penalty-kick-wiz.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/penalty-kick-wiz/cover/penalty-kick-wiz.png?w=320",
+        "category":  "sports",
+        "orientation":  "landscape",
+        "description":  "Step into the adrenaline-filled duel of Penalty Kick Wiz, where every shot and save is a crucial dance of precision and anticipation. Master the art of split-second decisions, outwit your opponent, and seize victory through strategic plays that test both your mental and physical reflexes.",
+        "namespace":  "penalty-kick-wiz"
+    },
+    {
+        "title":  "Stickman Warriors",
+        "url":  "https://play.gamepix.com/stickman-warriors-1/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/stickman-warriors-1/icon/stickman-warriors-1.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/stickman-warriors-1/cover/stickman-warriors-1.png?w=320",
+        "category":  "fighting",
+        "orientation":  "all",
+        "description":  "Unleash your inner stickman hero in Stickman Warriors, a thrilling fighting RPG. Ascend the ranks by mastering combat against powerful Saints. Maximize your strategy with daily rewards and diverse stickman attributes. Battle your way to the ultimate S rank and become the supreme stickman warrior!",
+        "namespace":  "stickman-warriors-1"
+    },
+    {
+        "title":  "Kobadoo Emojis",
+        "url":  "https://play.gamepix.com/kobadoo-emojis/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/kobadoo-emojis/icon/kobadoo-emojis.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/kobadoo-emojis/cover/kobadoo-emojis.png?w=320",
+        "category":  "kids",
+        "orientation":  "portrait",
+        "description":  "Kobadoo Emojis invites you into a delightful memory challenge with amusing emojis to sequence. As you advance, the complexity grows, enhancing your cognitive skills while you enjoy the easy controls. Focus, observe, and test your brain in this engaging and laughter-filled experience.",
+        "namespace":  "kobadoo-emojis"
+    },
+    {
+        "title":  "Hoop World",
+        "url":  "https://play.gamepix.com/hoop-world/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/hoop-world/icon/hoop-world.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/hoop-world/cover/hoop-world.png?w=320",
+        "category":  "basketball",
+        "orientation":  "all",
+        "description":  "In Hoop World, become a master of aerial acrobatics with precision mouse clicks. Soar through the air, nail flipping dunks, and outshine with style. Simple controls meet spectacular moves, making each perfect dunk a thrilling achievement in this dynamic 3D basketball experience.",
+        "namespace":  "hoop-world"
+    },
+    {
+        "title":  "My First 100 Words",
+        "url":  "https://play.gamepix.com/my-100-first-words/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/my-100-first-words/icon/my-100-first-words.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/my-100-first-words/cover/my-100-first-words.png?w=320",
+        "category":  "educational",
+        "orientation":  "portrait",
+        "description":  " Immerse your child in \"My First 100 Words,\" a vibrant language adventure! They will explore multiple languages through playful interactions, spotting emojis while hearing correct pronunciations. With increasing challenges, they鈥檒l build vocabulary and cultural awareness, making learning a captivating journey. Watch them thrive as they start a multilingual quest!",
+        "namespace":  "my-100-first-words"
+    },
+    {
+        "title":  "Stickman Street Fighting 3D",
+        "url":  "https://play.gamepix.com/stickman-street-fighting/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/stickman-street-fighting/icon/stickman-street-fighting.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/stickman-street-fighting/cover/stickman-street-fighting.png?w=320",
+        "category":  "fighting",
+        "orientation":  "landscape",
+        "description":  "Get ready to dominate the streets as a fearless stickman in Stickman Street Fighting 3D! This intense brawler challenges you to crush foes with strategic blows and quick reflexes. Break objects for unexpected power-ups, wield weapons for added punch, and prove you\"\"re the toughest stickman around.",
+        "namespace":  "stickman-street-fighting"
+    },
+    {
+        "title":  "Flamit",
+        "url":  "https://play.gamepix.com/flamit/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/flamit/icon/flamit.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/flamit/cover/flamit.png?w=320",
+        "category":  "adventure",
+        "orientation":  "landscape",
+        "description":  "Flamit puts your reflexes to the test in a swift race against a dwindling flame. Navigate 30 challenging, icy levels, lighting torches before time extinguishes your hopes. Strategize through snowy obstacles, evade icy enemies, and conquer two distinct game modes for an adrenaline-pumping experience.",
+        "namespace":  "flamit"
+    },
+    {
+        "title":  "Morphit",
+        "url":  "https://play.gamepix.com/morphit/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/morphit/icon/morphit.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/morphit/cover/morphit.png?w=320",
+        "category":  "arcade",
+        "orientation":  "portrait",
+        "description":  "Morphit is an exhilarating arcade challenge where you must quickly morph your shape to overcome incoming obstacles. Engage your reflexes and precision in a vibrant, fast-paced environment, mastering the art of timing in a world that tests your adaptability at every turn. Stay alert, adapt, and survive the thrill!",
+        "namespace":  "morphit"
+    },
+    {
+        "title":  "Robot Band - Find the differences",
+        "url":  "https://play.gamepix.com/robot-band-find-the-differences/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/robot-band-find-the-differences/icon/robot-band-find-the-differences.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/robot-band-find-the-differences/cover/robot-band-find-the-differences.png?w=320",
+        "category":  "puzzle",
+        "orientation":  "landscape",
+        "description":  "Enter a whimsical world of musical robots in Robot Band - Find the Differences. Test your observation skills as you uncover subtle discrepancies in images. Progress through engaging levels with a keen eye and patience. Dive into this charming adventure where every discovery counts!",
+        "namespace":  "robot-band-find-the-differences"
+    },
+    {
+        "title":  "Kobadoo Numbers",
+        "url":  "https://play.gamepix.com/kobadoo-numbers/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/kobadoo-numbers/icon/kobadoo-numbers.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/kobadoo-numbers/cover/kobadoo-numbers.png?w=320",
+        "category":  "memory",
+        "orientation":  "portrait",
+        "description":  "Strengthen your mind with Kobadoo Numbers, a captivating browser game. Challenge yourself to memorize increasingly difficult two-digit sequences and enhance your cognitive abilities in a fun way. Unlock the potential of your working memory as you improve your focus, attention, and mental agility while enjoying this addictive experience.",
+        "namespace":  "kobadoo-numbers"
+    },
+    {
+        "title":  "Sokoballs",
+        "url":  "https://play.gamepix.com/sokoballs/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/sokoballs/icon/sokoballs.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/sokoballs/cover/sokoballs.png?w=320",
+        "category":  "ball",
+        "orientation":  "landscape",
+        "description":  "Sokoballs offers a delightful puzzle adventure where each level tests your strategic skills. Carefully maneuver balls onto switches using intuitive controls while enjoying vintage pixel art. As difficulty elevates, planning ahead becomes key to solving these increasingly challenging puzzles. Embrace the cerebral journey and relish the art of problem-solving.",
+        "namespace":  "sokoballs"
+    },
+    {
+        "title":  "Moto X3M: Spooky Land",
+        "url":  "https://play.gamepix.com/moto-x3m-spooky-land/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/moto-x3m-spooky-land/icon/moto-x3m-spooky-land.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/moto-x3m-spooky-land/cover/moto-x3m-spooky-land.png?w=320",
+        "category":  "racing",
+        "orientation":  "landscape",
+        "description":  "Dive into the eerie thrills of Moto X3M: Spooky Land, where every turn is a challenge against the supernatural. Master gravity-defying stunts on spooky tracks, dodge bone-rattling obstacles, and ride like the wind to unlock creepy new gear. Can you handle the haunting speed and survive the ghoulish adventure?",
+        "namespace":  "moto-x3m-spooky-land"
+    },
+    {
+        "title":  "Going Right",
+        "url":  "https://play.gamepix.com/going-right/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/going-right/icon/going-right.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/going-right/cover/going-right.png?w=320",
+        "category":  "animal",
+        "orientation":  "landscape",
+        "description":  "Embark on a thrilling aerial journey as you guide a determined bird back to its nest in \"Going Right.\" Navigate through dynamic obstacles using intuitive one-touch controls. Embrace the challenge across multiple modes, collect coins for customization, and strategize your taps to master this addictive arcade adventure.",
+        "namespace":  "going-right"
+    },
+    {
+        "title":  "Canjump",
+        "url":  "https://play.gamepix.com/canjump/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/canjump/icon/canjump.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/canjump/cover/canjump.png?w=320",
+        "category":  "fun",
+        "orientation":  "landscape",
+        "description":  "Leap into a thrilling arcade adventure with Canjump! Master the art of well-timed jumps as a monster navigating perilous terrains. With only one button to control, sharpen your reflexes to conquer increasingly tough obstacles and enemies, all while aiming for the highest score in this endlessly entertaining challenge.",
+        "namespace":  "canjump"
+    },
+    {
+        "title":  "Dotto Botto",
+        "url":  "https://play.gamepix.com/dotto-botto/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/dotto-botto/icon/dotto-botto.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/dotto-botto/cover/dotto-botto.png?w=320",
+        "category":  "retro",
+        "orientation":  "landscape",
+        "description":  "Embark on an epic adventure with pixel hero Dotto Botto in this charming retro platformer. Facing hazardous spikes and deadly enemies across diverse levels, you\"\"ll jump and dodge with precision. Find power-ups, solve challenges, and prepare for a climactic showdown against a colossal final boss! Will you guide Dotto home?",
+        "namespace":  "dotto-botto"
+    },
+    {
+        "title":  "Slope Racing 3D",
+        "url":  "https://play.gamepix.com/slope-racing-3d/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/slope-racing-3d/icon/slope-racing-3d.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/slope-racing-3d/cover/slope-racing-3d.png?w=320",
+        "category":  "ball",
+        "orientation":  "landscape",
+        "description":  "Experience exhilarating speed as you guide a relentless ball down a vibrant, ever-changing slope. Navigate through dynamic obstacles, hit boost pads, and gather gems while skillfully using power-ups. With endless ramps and increasing challenges, Slope Racing 3D offers a fast-paced thrill ride testing your reflexes and precision.",
+        "namespace":  "slope-racing-3d"
+    },
+    {
+        "title":  "Royal Couple Halloween Party",
+        "url":  "https://play.gamepix.com/royal-couple-halloween-party/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/royal-couple-halloween-party/icon/royal-couple-halloween-party.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/royal-couple-halloween-party/cover/royal-couple-halloween-party.png?w=320",
+        "category":  "kids",
+        "orientation":  "landscape",
+        "description":  "Step into a whimsical world where creating enchanting Halloween outfits for royal couples is your mission. With vibrant graphics and easy point-and-click controls, mix and match wardrobes to craft unique, thematic ensembles. Unleash your creativity as you turn the festive night into a magical masterpiece.",
+        "namespace":  "royal-couple-halloween-party"
+    },
+    {
+        "title":  "Drift Boss",
+        "url":  "https://play.gamepix.com/drift-boss/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/drift-boss/icon/drift-boss.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/drift-boss/cover/drift-boss.png?w=320",
+        "category":  "racing",
+        "orientation":  "all",
+        "description":  "Drift through challenging tracks in Drift Boss, where precision and timing are key. With a simple one-button control, conquer narrow, twisty paths, collect coins for power-ups, and unlock new cars. Engage in mini-games for extra rewards and embrace the excitement of drifting without the danger.",
+        "namespace":  "drift-boss"
+    },
+    {
+        "title":  "Epic Duck",
+        "url":  "https://play.gamepix.com/epic-duck/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/epic-duck/icon/epic-duck.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/epic-duck/cover/epic-duck.png?w=320",
+        "category":  "arcade",
+        "orientation":  "all",
+        "description":  "Embark on an adventurous journey with Epic Duck, where clever exploration and precise timing lead to success. Navigate charming levels, uncover hidden keys, and unlock doorways to progress, all while honing your puzzle-solving skills. With engaging challenges and delightful visuals, it\"\"s a delightful test of strategy and reflexes.",
+        "namespace":  "epic-duck"
+    },
+    {
+        "title":  "Injection Invasion",
+        "url":  "https://play.gamepix.com/injection-invasion/embed?sid=1",
+        "image":  "https://img.gamepix.com/games/injection-invasion/icon/injection-invasion.png?w=105",
+        "banner_image":  "https://img.gamepix.com/games/injection-invasion/cover/injection-invasion.png?w=320",
+        "category":  "arcade",
+        "orientation":  "landscape",
+        "description":  "Dodge and weave in Injection Invasion, an exciting platformer where quick reflexes and strategy are essential. Guide a boy through a perilous world filled with incoming injections, using precision and timing to survive. Master the art of evasive maneuvers and see how long you can last!",
+        "namespace":  "injection-invasion"
+    }
+]
